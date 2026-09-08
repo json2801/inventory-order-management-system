@@ -49,7 +49,7 @@ Setup
 
 1. Clone the repository
 
-git clone https://github.com/YOUR-USERNAME/inventory-order-management-system.git
+git clone https://github.com/json2801//inventory-order-management-system.git
 cd inventory-order-management-system
 
 2. Create a virtual environment
